@@ -10,7 +10,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/Unknwon/com"
+	"github.com/jdigger/com"
 )
 
 var (
