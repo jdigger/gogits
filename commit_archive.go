@@ -4,9 +4,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/Unknwon/cae"
-	"github.com/Unknwon/cae/tz"
-	"github.com/Unknwon/cae/zip"
+	"github.com/jdigger/cae"
+	"github.com/jdigger/cae/tz"
+	"github.com/jdigger/cae/zip"
 )
 
 type ArchiveType int
